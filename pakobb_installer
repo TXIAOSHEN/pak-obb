@@ -1,4 +1,4 @@
-#!../usr/bin/bash
+
 merpro=$EXTERNAL_STORAGE/Download/pakobb_1st
 locbin=$PREFIX/bin
 
